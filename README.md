@@ -14,5 +14,14 @@ A Python script that extracts structured data about **Uttar Pradesh cuisine** fr
 
 ## Install dependencies
 pip install requests pandas beautifulsoup4
-## Run the script
-python scraper.py
+
+## Open the Jupyter Notebook:
+   jupyter notebook ScrapCuisine.ipynb
+
+### Optional Notes**
+- **Jupyter Notebook is required**:  
+
+Install Jupyter Notebook if you don’t have it:
+pip install notebook
+   
+
