@@ -1,6 +1,6 @@
 # Cuisine Scraper
 
-A Python script that extracts structured data about **Uttar Pradesh cuisine** from Wikipedia using the **Wikipedia API**. The script collects information from key sections including **Bread, Common food, Traditional desserts, Common beverages, See also, and References**, and saves it in a **CSV-friendly format**.
+A Python script that extracts structured data about **Uttar Pradesh cuisine** from Wikipedia using the **Wikipedia API**. The script collects information from key sections including **Bread, Common food, Traditional desserts, Common beverages**, and saves it in a **CSV-friendly format**.
 
 ## Features
 - Uses the **Wikipedia API** for reliable data extraction.
