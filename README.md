@@ -12,12 +12,6 @@ A Python script that extracts structured data about **Uttar Pradesh cuisine** fr
 - Python (`requests`, `pandas`, `BeautifulSoup`)  
 - Wikipedia API
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/uttar-pradesh-cuisine-scraper.git
-   cd uttar-pradesh-cuisine-scraper
-
 ## Install dependencies
 pip install requests pandas beautifulsoup4
 ## Run the script
